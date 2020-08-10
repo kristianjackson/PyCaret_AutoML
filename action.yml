@@ -1,4 +1,4 @@
-name: "PyCaret AutoML Git Action"
+name: "PyCaret AutoML Git Action - Kristian Jackson"
 description: "A simple example of AutoML created using PyCaret 2.0"
 author: "Kristian Jackson"
 inputs:
